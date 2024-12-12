@@ -14,6 +14,7 @@ To get started with Zorara Executor, follow these simple steps:
 
 
 
+
 ![Zorara Executor Preview](/assets/maanvilro.gif)
 
 ## Table of Contents
